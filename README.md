@@ -4,7 +4,7 @@ Aplicación para Android: consulta el menú, arma tu pedido y prepáralo para en
 
 ## Descargar la aplicación
 
-**[Descargar Delicias Y&M para Android](https://github.com/alurdaneta1/delicias-ym-descargas/releases/latest/download/Delicias-YM.apk)**
+**[Descargar Delicias Y&M para Android](https://github.com/alurdaneta1/Delicias-YM-Gourmet/releases/latest/download/Delicias-YM.apk)**
 
 Versión publicada: **1.5**. Requiere Android 7 o posterior. Este archivo APK es para Android.
 
@@ -28,13 +28,13 @@ Al tocar **Enviar pedido por WhatsApp**, el mensaje se abre en WhatsApp para que
 
 El enlace de descarga anterior apunta a la última versión publicada. Para actualizar, descarga la nueva APK desde ese mismo enlace e instálala sobre la aplicación existente.
 
-[Ver las versiones publicadas](https://github.com/alurdaneta1/delicias-ym-descargas/releases)
+[Ver las versiones publicadas](https://github.com/alurdaneta1/Delicias-YM-Gourmet/releases)
 
 Este repositorio contiene los archivos públicos de distribución y sus instrucciones.
 ## Código QR para imprimir
 
-- [Descargar cartel A4 en PDF](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/Cartel-QR-Delicias-YM-A4.pdf)
-- [Descargar solo el QR en PNG](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/QR-Delicias-YM.png)
-- [Descargar el QR vectorial en SVG](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/QR-Delicias-YM.svg)
+- [Descargar cartel A4 en PDF](https://github.com/alurdaneta1/Delicias-YM-Gourmet/releases/download/v1.5.0/Cartel-QR-Delicias-YM-A4.pdf)
+- [Descargar solo el QR en PNG](https://github.com/alurdaneta1/Delicias-YM-Gourmet/releases/download/v1.5.0/QR-Delicias-YM.png)
+- [Descargar el QR vectorial en SVG](https://github.com/alurdaneta1/Delicias-YM-Gourmet/releases/download/v1.5.0/QR-Delicias-YM.svg)
 
 Imprime el cartel en papel A4. El QR abre el enlace permanente de descarga de la última APK publicada y no pide iniciar sesión en GitHub.
