@@ -31,3 +31,10 @@ El enlace de descarga anterior apunta a la última versión publicada. Para actu
 [Ver las versiones publicadas](https://github.com/alurdaneta1/delicias-ym-descargas/releases)
 
 Este repositorio contiene los archivos públicos de distribución y sus instrucciones.
+## Código QR para imprimir
+
+- [Descargar cartel A4 en PDF](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/Cartel-QR-Delicias-YM-A4.pdf)
+- [Descargar solo el QR en PNG](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/QR-Delicias-YM.png)
+- [Descargar el QR vectorial en SVG](https://github.com/alurdaneta1/delicias-ym-descargas/releases/download/v1.5.0/QR-Delicias-YM.svg)
+
+Imprime el cartel en papel A4. El QR abre el enlace permanente de descarga de la última APK publicada y no pide iniciar sesión en GitHub.
